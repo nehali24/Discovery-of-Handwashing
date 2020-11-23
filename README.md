@@ -4,7 +4,9 @@ This dataset deals with data that led to discovery of handwashing . The dataset 
 Clinic 1 showed the higher proprtion of deaths. There could have been multiple reasons behind this like poor sanitation, inexperienced doctors, bacterial invasion, etc. In order to eradicate this death invasion, washing hands became necessary. When proportion of deaths over time was plotted it reduced highly around 1848. Tis could be the point when people might have started taking handwashing seriously. 
 ![output_11_0](https://user-images.githubusercontent.com/60546284/99951481-1cf2d800-2d76-11eb-8b2f-ea74dd86f7b8.png)
 
-1847 was the time ahen handwashing became legally to be followed. The effect o fthis obligation showed a hige improvement. 
+1847 was the time when handwashing became legally compulsory to be followed. The effect of this obligation showed a huge improvement. 
+![output_12_0](https://user-images.githubusercontent.com/60546284/99951880-a99d9600-2d76-11eb-9d05-fdf01c93593e.png)
+
 
 
 
