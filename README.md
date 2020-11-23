@@ -7,6 +7,11 @@ Clinic 1 showed the higher proprtion of deaths. There could have been multiple r
 1847 was the time when handwashing became legally compulsory to be followed. The effect of this obligation showed a huge improvement. 
 ![output_12_0](https://user-images.githubusercontent.com/60546284/99951880-a99d9600-2d76-11eb-9d05-fdf01c93593e.png)
 
+Hand washing became compulsory around 1847, and there was a dip in number of deaths recorded. When handwashing wasn't compulsory the mean proportion of deaths was 0.105 while it started it went down to 0.0210 that is fro 10 % to 2 %. Effect of handwashing on mortality rate could be seen from the figure of statistical analysis.
+
+There is a 95 percent confidence interval between 6.66  to 10.1 . This proves that handwshing was an effective way of reducing deaths. 
+
+
 
 
 
